@@ -8,7 +8,8 @@ Demonstrates SSD1306 OLED display features using ESP32.
 ## Features
 - All standard display tests
 - Optimized for ESP32
-- Custom "HMS_Tech Subs..!" message
+- Custom "Display Working!" message
+- Simple to Advance Text handeling
 
 ## Hardware
 - ESP32 Dev Board
