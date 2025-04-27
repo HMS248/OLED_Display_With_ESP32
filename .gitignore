@@ -1,0 +1,16 @@
+# Compiled files
+*.bin
+*.elf
+*.partitions
+
+# Arduino IDE
+*.ino.elf
+*.ino.bin
+*.ino.eep
+*.ino.hex
+*.ino.with_bootloader.bin
+*.ino.with_bootloader.hex
+
+# VS Code/PlatformIO
+.vscode/
+.pio/
