@@ -42,9 +42,9 @@ void setup() {
   display.setTextSize(2);
   display.setTextColor(WHITE);
   display.setCursor(20, 20);
-  display.println("HMS_Tech");
+  display.println("Display");
   display.setCursor(30, 40);
-  display.println("Subs..!");
+  display.println("Working.!");
   display.display();
 }
 
