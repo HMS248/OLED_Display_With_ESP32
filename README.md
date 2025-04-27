@@ -1,7 +1,7 @@
 # OLED_Display_With_ESP32
 0.96'' OLED Display Setup with ESP32
 
-# ESP32 OLED Display Project
+# OLED Display With ESP32 Project
 
 Demonstrates SSD1306 OLED display features using ESP32.
 
